@@ -1,0 +1,48 @@
+body {
+    background: ivory;
+}
+#banner {
+    width: 100%;
+}
+.principal {
+    background: skyblue;
+    padding: 30px;
+}
+.titulo-principal {
+    padding-left: 20px;
+}
+.centralizado {
+    text-align: center; background: pink;
+}
+p {
+    text-align: center;
+    
+}
+strong {
+    color: indigo;
+}
+
+#missao {
+    font-size: 20px;
+    background: skyblue;
+    
+}
+
+.itens {
+    font-style: italic;
+}
+
+.beneficio {
+    background: pink;
+    padding: 20px;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+.imgbeneficio {
+    width: 50%;
+}
